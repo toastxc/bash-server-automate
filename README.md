@@ -9,6 +9,5 @@
   [![Licence](https://img.shields.io/github/license/DeclanChidlow/Template?style=flat-square&logoColor=white)](https://github.com/DeclanChidlow/Template/blob/main/LICENCE)
 </h1>
 
-A template for my GitHub repositories.
 
 ![LGPLv3 Badge](/README_RESOURCES/LGPLv3%20Logo.svg)
