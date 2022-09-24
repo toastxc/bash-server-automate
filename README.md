@@ -1,5 +1,5 @@
 <h1 align="center">
-  Template Repo
+  Bash Server Automate
   
   [![Stars](https://img.shields.io/github/stars/DeclanChidlow/Template?style=flat-square&logoColor=white)](https://github.com/DeclanChidlow/Template/stargazers)
   [![Forks](https://img.shields.io/github/forks/DeclanChidlow/Template?style=flat-square&logoColor=white)](https://github.com/DeclanChidlow/Template/network/members)
